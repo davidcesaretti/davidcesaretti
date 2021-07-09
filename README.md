@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hola, mi nombre es David Cesaretti 👋
 
+#Soy un desarrollador web full stack en javascript, me apasiona resolver problemas y seguir creciendo tanto personal como profesionalmente.
+
+##Siempre yendo hacia adelante! 
 <!--
 **davidcesaretti/davidcesaretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
