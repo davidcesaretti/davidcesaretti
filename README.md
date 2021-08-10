@@ -4,8 +4,8 @@ Soy un desarrollador web full stack en javascript, me apasiona resolver problema
 
 Tengo conocimientos en HTML, CSS, Javascript, React, Redux, Firebase, Node, Express, PostreSQL, Sequelize, MongoDB y Typescript.
 
-email: davucesaretti@gmail.com
-wsp:   +543402538301
+email: davucesaretti@gmail.com.
+wsp:   +543402538301.
 
 Siempre yendo hacia adelante! 
 <!--
