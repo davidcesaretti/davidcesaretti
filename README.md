@@ -2,6 +2,8 @@
 
 Soy un desarrollador web full stack en javascript, me apasiona resolver problemas y seguir creciendo tanto personal como profesionalmente.
 
+Tengo conocimientos en HTML, CSS, Javascript, React, Redux, Firebase, Node, Express, PostreSQL, Sequelize, MongoDB y Typescript.
+
 Siempre yendo hacia adelante! 
 <!--
 **davidcesaretti/davidcesaretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
