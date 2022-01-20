@@ -5,6 +5,7 @@ Soy un desarrollador web full stack en javascript, me apasiona resolver problema
 Tengo conocimientos en HTML, CSS, Javascript, React, Redux, NextJS, Firebase, Node, Express, PostreSQL, Sequelize, MongoDB y Typescript.
 
 email: davucesaretti@gmail.com
+portfolio: https://portfolio-oua8km79b-davidcesaretti.vercel.app/
 
 wsp:   +543402538301
 
